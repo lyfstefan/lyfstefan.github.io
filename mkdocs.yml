@@ -1,0 +1,11 @@
+site_name: Yifan Liu
+site_url: https://你的GitHub用户名.github.io/
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Publications: publications.md
+  - CV: cv.md
+  - Contact: contact.md
