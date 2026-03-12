@@ -3,6 +3,10 @@ site_url: https://lyfstefan.github.io/
 
 theme:
   name: material
+  logo: images/logo.jpg
+  favicon: images/logo2.png
+  palette:
+    primary: white
   features:
     - navigation.sections
     - navigation.expand
@@ -18,7 +22,7 @@ nav:
   - Publications: publications.md
   - Notes: notes.md
   - Teaching: teaching.md
-  - CV: cv.md
+  # - CV: cv.md
 
 markdown_extensions:
   - attr_list
