@@ -1,5 +1,11 @@
-.md-header {
+/* .md-header {
   display: none;
+} */
+
+@media (max-width: 700px) {
+  .md-header {
+    display: block;
+  }
 }
 
 .md-main {
