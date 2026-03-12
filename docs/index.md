@@ -35,8 +35,9 @@
 :material-email: [Email](mailto:yliu545@ucr.edu) | :material-school: [Google Scholar](https://scholar.google.com/citations?user=mXwRRVQAAAAJ&hl=en&authuser=1) | :fontawesome-brands-github: [GitHub](https://github.com/lyfstefan)
 
 
-
+---
 ## Research Interests
+
 
 <div class="interests-grid">
   <div class="interest-card">Strongly correlated systems</div>
@@ -46,7 +47,7 @@
   <div class="interest-card">Non-Hermitian systems</div>
 </div>
 
-
+---
 ## Publications
 
 
@@ -89,7 +90,7 @@
 
 
 
-
+---
 ## Talks and Conferences
 
 1. **Y. Liu**, V. Aji,  
