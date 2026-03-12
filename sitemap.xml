@@ -1,23 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://你的GitHub用户名.github.io/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <loc>https://lyfstefan.github.io/</loc>
+         <lastmod>2026-03-12</lastmod>
     </url>
     <url>
-         <loc>https://你的GitHub用户名.github.io/contact/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <loc>https://lyfstefan.github.io/contact/</loc>
+         <lastmod>2026-03-12</lastmod>
     </url>
     <url>
-         <loc>https://你的GitHub用户名.github.io/cv/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <loc>https://lyfstefan.github.io/cv/</loc>
+         <lastmod>2026-03-12</lastmod>
     </url>
     <url>
-         <loc>https://你的GitHub用户名.github.io/publications/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <loc>https://lyfstefan.github.io/notes/</loc>
+         <lastmod>2026-03-12</lastmod>
     </url>
     <url>
-         <loc>https://你的GitHub用户名.github.io/research/</loc>
-         <lastmod>2026-03-11</lastmod>
+         <loc>https://lyfstefan.github.io/publications/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/research/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/phys002a/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/phys040a/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/phys135b/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/phys156a/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/phys156b/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://lyfstefan.github.io/teaching/phys210c/</loc>
+         <lastmod>2026-03-12</lastmod>
     </url>
 </urlset>
