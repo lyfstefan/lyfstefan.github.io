@@ -1,11 +1,28 @@
 site_name: Yifan Liu
-site_url: https://你的GitHub用户名.github.io/
+site_url: https://lyfstefan.github.io/
+
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
+  - Contact: contact.md
   - Research: research.md
   - Publications: publications.md
+  - Notes: notes.md
+  - Teaching: teaching.md
   - CV: cv.md
-  - Contact: contact.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

@@ -1,7 +1,15 @@
-# Publications
+1. **Y. Liu**, V. Aji,  
+   [*Bond ordering in flux phases of interacting spinless fermions on the square lattice*](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.113.045140),  
+   **Physical Review B** **113**, 045140 (2026).
 
-1. **Yifan Liu**, Robert Dawson, Nathaniel Gabor, et al.  
-   *Phonon-assisted absorption in Transition Metal Dichalcogenide heterostructures*
+2. **Y. Liu**, R. Dawson, N. Gabor, V. Aji,  
+   [*Phonon-assisted absorption in transition metal dichalcogenide heterostructures*](https://arxiv.org/abs/2602.02803),  
+   arXiv:2602.02803 (2026).
 
-2. **Yifan Liu**, ...  
-   *Bond ordering in flux phases*
+3. **Y. Liu**, V. M. Aji,  
+   *Fluctuations of loop current order*,  
+   in preparation.
+
+4. R. Zhang, **Y. F. Liu**, T. Chen,  
+   [*Non-Hermiticity-induced quantum control of localization in quantum walks*](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.022218),  
+   **Physical Review A** **102**(2), 022218 (2020).
