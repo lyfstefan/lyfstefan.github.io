@@ -11,7 +11,5 @@ Fall 2021
 - [Discussion 4](../files/phys040a/Discussion_week4.pdf)
 - [Discussion 5](../files/phys040a/Discussion_week5.pdf)
 - [Discussion 6](../files/phys040a/Discussion_week6.pdf)
-- [Discussion 7](../files/phys040a/Discussion_week7.pdf)
 - [Discussion 8](../files/phys040a/Discussion_week8.pdf)
-- [Discussion 9](../files/phys040a/Discussion_week9.pdf)
 - [Discussion 10](../files/phys040a/Discussion_week10.pdf)
