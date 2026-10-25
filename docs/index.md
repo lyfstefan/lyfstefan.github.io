@@ -57,7 +57,7 @@
 
 2. **Y. Liu**, R. Dawson, N. Gabor, V. Aji,  
    [*Phonon-assisted absorption in transition metal dichalcogenide heterostructures*](https://doi.org/10.1103/v3sr-lg47),  
-   **Physical Review B** **113**, 235306 (2026). [arXiv](https://arxiv.org/abs/2602.02803)
+   **Physical Review B** **113**, 235306 (2026).
 
 3. **Y. Liu**, V. M. Aji,  
    *Fluctuations of loop current order*,  
@@ -76,7 +76,7 @@
 
 2. **Y. Liu**, R. Dawson, N. Gabor, V. Aji,  
    [*Phonon-assisted absorption in transition metal dichalcogenide heterostructures*](https://doi.org/10.1103/v3sr-lg47),  
-   **Physical Review B** **113**, 235306 (2026). [arXiv](https://arxiv.org/abs/2602.02803)
+   **Physical Review B** **113**, 235306 (2026).
 
 3. **Y. Liu**, V. M. Aji,  
    *Fluctuations of loop current order*,  
