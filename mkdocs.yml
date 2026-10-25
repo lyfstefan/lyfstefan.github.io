@@ -14,7 +14,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/home.css
 
 nav:
   - Home: index.md
@@ -35,4 +34,3 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/slider.js
-  - javascripts/home.js
